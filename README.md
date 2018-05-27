@@ -1,7 +1,7 @@
 "# meteo-api" 
 Python app that comunicates with a BMP180 temperature/presure sensor and exposes that data as a JSON Rest service
 
-http://localhost:5000/meteo-api:
+http://localhost:5000/meteo-api
 
 {
 "pressure": 1004.22,
